@@ -7,5 +7,7 @@ export const HomePage = styled.div`
 `;
 export const WrapperImgAdvertise = styled.div`
   width: 100%;
+  height: 480px;
+  margin: auto;
 `;
 export const NewProductList = styled.div``;
